@@ -34,3 +34,14 @@ Additionally, many thanks to the amazing team of bug testers:
 -Bobbywick
 -BurningLake
 -KannaSK
+
+Note
+======================
+Minimum forge version: 1.16.5-36.2.34
+
+To build this mod
+======================
+# Linux
+    ./gradlew jar
+# Windows
+    .\gradlew.bat jar
